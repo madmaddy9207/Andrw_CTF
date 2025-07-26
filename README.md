@@ -1,4 +1,4 @@
-```markdown
+
 # Android CTF Challenge: InsecureBankv2ctf - Multi-Stage Pentesting Lab
 
 ## Overview
@@ -45,7 +45,6 @@ Your mission: **Find all the flags** by analyzing the APK, intercepting network 
 - **Hard Flag:**
   - `***{****_***_*****_***}`
 
----
 
 ## Setup Instructions
 
