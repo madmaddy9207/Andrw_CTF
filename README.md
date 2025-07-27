@@ -92,7 +92,11 @@ Your mission: **Find all the flags** by analyzing the APK, intercepting network 
 
 - No brute-forcing or DoS attacks.
 - Use only your own test accounts.
+- always follow the android pentesting path
+- Do static and Dynamic analysis 
 - Have fun and learn!
+
+
 
 ---
 
